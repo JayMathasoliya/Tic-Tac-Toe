@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="TicTacToe">Welcome to Tic-Tac-Toe</string>
+    <string name="grid">our main grid</string>
+    <string name="value">0 or X</string>
+    <string name="status">Player 1\'s Turn - Tap to play</string>
+    <string name="windowForButtons">Tic - Tac - Toe</string>
+    <string name="resetButton">Reset</string>
+    <string name="exitButton">Exit</string>
+</resources>

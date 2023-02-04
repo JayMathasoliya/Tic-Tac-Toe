@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#004C69</item>
+        <item name="colorPrimaryVariant">#004C69</item>
+        <item name="colorOnPrimary">#004C69</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#004C69</item>
+        <item name="colorSecondaryVariant">#004C69</item>
+        <item name="colorOnSecondary">#004C69</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >#454749</item>
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">#454749</item>
+    </style>
+</resources>
